@@ -30,7 +30,7 @@ This repository contains a customized version of the **AdvancedSkeleton** riggin
 
 ## Modifications
 
-The following changes were made to the original **AdvancedSkeleton.mel** script:
+The following changes have been made based on AdvancedSkeleton Version 6.400:
 - Lip-related controls (`FaceFitLipOuter`, `FaceFitLipMain`, `FaceFitLipInner`, and their associated selections) were commented out.
 - Nose, jaw, and cheek movements were affected due to the exclusion of these controls.
 - The script logic was adjusted to prevent any errors related to missing lip joints during rig creation.
